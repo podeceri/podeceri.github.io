@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://podeceri.github.io/sitemap
+Sitemap: https://podeceri.github.io/app/sitemap
+Sitemap: https://podeceri.github.io/assets/sitemap
+Sitemap: https://podeceri.github.io/css/sitemap
+Sitemap: https://podeceri.github.io/includes/sitemap
+Sitemap: https://podeceri.github.io/item/sitemap
+Sitemap: https://podeceri.github.io/src/sitemap
